@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Load the previously generated dataset
 df = pd.read_excel("aligned_risk_personal_loans.xlsx")
 
 # Parameters for Monte Carlo Simulation
