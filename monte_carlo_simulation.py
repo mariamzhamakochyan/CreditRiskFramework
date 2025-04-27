@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load your generated portfolio
 df = pd.read_excel("aligned_risk_personal_loans.xlsx")
 
 # Monte Carlo Simulation Parameters
