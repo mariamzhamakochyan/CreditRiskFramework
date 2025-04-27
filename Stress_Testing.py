@@ -3,7 +3,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load your Excel file
 file_path = "aligned_risk_personal_loans.xlsx"
 df = pd.read_excel(file_path)
 
